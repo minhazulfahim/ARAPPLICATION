@@ -23,7 +23,7 @@ This section provides a brief overview of the project and how the "Fuse Box" AR 
 - **Interactive Labels:** Labels provide information about each fuse, enhancing the educational aspect of the app.
 
 ## Installation
-1. Open the project in Unity (recommended version: Unity 2019.4.31).
+1. Open the project in Unity (recommended version: Unity 2022.4.31).
 3. Make sure AR Foundation package is installed.
 4. Set up your development environment for Android (ARCore) or iOS (ARKit) development.
 
